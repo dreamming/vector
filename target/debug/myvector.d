@@ -1,1 +1,0 @@
-/Users/supermark/Projects/source_code/myvector/target/debug/myvector: /Users/supermark/Projects/source_code/myvector/src/lib.rs /Users/supermark/Projects/source_code/myvector/src/log.rs /Users/supermark/Projects/source_code/myvector/src/main.rs build.rs
